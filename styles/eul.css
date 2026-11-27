@@ -85,3 +85,16 @@ h4 {
     flex-direction: column;
     gap: 18px;
 }
+
+nav {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 34px;
+    padding-top: 30px;
+    padding-bottom: 26px;
+    gap: 32px;
+    box-sizing: border-box;
+    background-color: #2650d7;
+    border-bottom-left-radius: 30px;
+}
